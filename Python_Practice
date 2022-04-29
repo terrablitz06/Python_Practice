@@ -1,0 +1,13 @@
+print("Hello world")
+Hello = "Hello world " * 25
+print(Hello)
+squared = 15 ** 2
+cubed = 17 ** 3
+print(squared)
+print(cubed)
+count = 0
+while True:
+    print(count)
+    count += 1
+    if count >= 20:
+        break
